@@ -1,0 +1,38 @@
+E:\KRUPALI BUSA\Second Year\CSA\database_connectivity\database_connectivity\obj\Debug\ResolveAssemblyReference.cache
+E:\KRUPALI BUSA\Second Year\CSA\database_connectivity\database_connectivity\obj\Debug\database_connectivity.Form1.resources
+E:\KRUPALI BUSA\Second Year\CSA\database_connectivity\database_connectivity\obj\Debug\database_connectivity.Properties.Resources.resources
+E:\KRUPALI BUSA\Second Year\CSA\database_connectivity\database_connectivity\obj\Debug\database_connectivity.csproj.GenerateResource.Cache
+E:\KRUPALI BUSA\Second Year\CSA\database_connectivity\database_connectivity\bin\Debug\database_connectivity.exe
+E:\KRUPALI BUSA\Second Year\CSA\database_connectivity\database_connectivity\bin\Debug\database_connectivity.pdb
+E:\KRUPALI BUSA\Second Year\CSA\database_connectivity\database_connectivity\obj\Debug\database_connectivity.exe
+E:\KRUPALI BUSA\Second Year\CSA\database_connectivity\database_connectivity\obj\Debug\database_connectivity.pdb
+E:\KRUPALI_BUSA\Second_Year\CSA\database_connectivity\database_connectivity\obj\Debug\database_connectivity.exe
+E:\KRUPALI_BUSA\Second_Year\CSA\database_connectivity\database_connectivity\obj\Debug\database_connectivity.pdb
+E:\KRUPALI_BUSA\Second_Year\CSA\database_connectivity\database_connectivity\bin\Debug\database_connectivity.exe
+E:\KRUPALI_BUSA\Second_Year\CSA\database_connectivity\database_connectivity\bin\Debug\database_connectivity.pdb
+E:\KRUPALI_BUSA\Second_Year\CSA\database_connectivity\database_connectivity\obj\Debug\ResolveAssemblyReference.cache
+E:\KRUPALI_BUSA\Second_Year\CSA\database_connectivity\database_connectivity\obj\Debug\database_connectivity.Form1.resources
+E:\KRUPALI_BUSA\Second_Year\CSA\database_connectivity\database_connectivity\obj\Debug\database_connectivity.Properties.Resources.resources
+E:\KRUPALI_BUSA\Second_Year\CSA\database_connectivity\database_connectivity\obj\Debug\database_connectivity.csproj.GenerateResource.Cache
+C:\Users\dell\Downloads\CSA\database_connectivity\database_connectivity\obj\Debug\database_connectivity.exe
+C:\Users\dell\Downloads\CSA\database_connectivity\database_connectivity\obj\Debug\database_connectivity.pdb
+C:\Users\dell\Downloads\CSA\database_connectivity\database_connectivity\bin\Debug\database_connectivity.exe
+C:\Users\dell\Downloads\CSA\database_connectivity\database_connectivity\bin\Debug\database_connectivity.pdb
+C:\Users\dell\Downloads\CSA\database_connectivity\database_connectivity\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\dell\Downloads\CSA\database_connectivity\database_connectivity\obj\Debug\database_connectivity.Form1.resources
+C:\Users\dell\Downloads\CSA\database_connectivity\database_connectivity\obj\Debug\database_connectivity.Properties.Resources.resources
+C:\Users\dell\Downloads\CSA\database_connectivity\database_connectivity\obj\Debug\database_connectivity.csproj.GenerateResource.Cache
+Z:\CSA\database_connectivity\database_connectivity\obj\Debug\database_connectivity.exe
+Z:\CSA\database_connectivity\database_connectivity\obj\Debug\database_connectivity.pdb
+Z:\CSA\database_connectivity\database_connectivity\bin\Debug\database_connectivity.exe
+Z:\CSA\database_connectivity\database_connectivity\bin\Debug\database_connectivity.pdb
+Z:\CSA\database_connectivity\database_connectivity\obj\Debug\ResolveAssemblyReference.cache
+Z:\CSA\database_connectivity\database_connectivity\obj\Debug\database_connectivity.Form1.resources
+Z:\CSA\database_connectivity\database_connectivity\obj\Debug\database_connectivity.Properties.Resources.resources
+Z:\CSA\database_connectivity\database_connectivity\obj\Debug\database_connectivity.csproj.GenerateResource.Cache
+Z:\CSA\database_connectivity\database_connectivity\obj\Debug\database_connectivity.search.resources
+E:\KRUPALI_BUSA\Second_Year\CSA\database_connectivity\database_connectivity\obj\Debug\database_connectivity.search.resources
+E:\KRUPALI_BUSA\Second_Year\CSA\database_connectivity\database_connectivity\obj\Debug\database_connectivity.Update_data.resources
+E:\KRUPALI_BUSA\Second_Year\CSA\database_connectivity\database_connectivity\obj\Debug\database_connectivity.select_data.resources
+C:\Users\DELL\Desktop\database_connectivity\database_connectivity\obj\Debug\database_connectivity.exe
+C:\Users\DELL\Desktop\database_connectivity\database_connectivity\obj\Debug\database_connectivity.pdb
